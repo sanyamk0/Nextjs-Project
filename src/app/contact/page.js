@@ -6,7 +6,7 @@ const Page = () => {
   return (
     <>
       <div className={styles.container}>
-        <h1>Contact Page</h1>
+        <h1>Contact Us</h1>
         <ContactCard />
         <section className={styles.contact_section}>
           <h2>
